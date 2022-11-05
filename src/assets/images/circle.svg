@@ -1,0 +1,15 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="64" height="64" fill="#2E96E8" fill-opacity="0.05"/>
+<path d="M35.8209 31.9533C35.8209 32.7104 35.5964 33.4505 35.1758 34.08C34.7552 34.7095 34.1574 35.2001 33.4579 35.4898C32.7585 35.7795 31.9888 35.8553 31.2463 35.7076C30.5037 35.5599 29.8217 35.1954 29.2863 34.66C28.751 34.1247 28.3864 33.4426 28.2387 32.7001C28.091 31.9576 28.1668 31.1879 28.4566 30.4884C28.7463 29.789 29.2369 29.1912 29.8664 28.7705C30.4959 28.3499 31.236 28.1254 31.9931 28.1254C33.0083 28.1254 33.9819 28.5287 34.6998 29.2466C35.4176 29.9645 35.8209 30.9381 35.8209 31.9533V31.9533Z" stroke="white" stroke-width="1.43577" stroke-miterlimit="10"/>
+<path d="M32 57C45.8071 57 57 45.8071 57 32C57 18.1929 45.8071 7 32 7C18.1929 7 7 18.1929 7 32C7 45.8071 18.1929 57 32 57Z" stroke="white" stroke-width="0.198362" stroke-miterlimit="10" stroke-dasharray="4.71 4.71"/>
+<path d="M32 57C45.8071 57 57 45.8071 57 32C57 18.1929 45.8071 7 32 7C18.1929 7 7 18.1929 7 32C7 45.8071 18.1929 57 32 57Z" stroke="white" stroke-width="2.39294" stroke-miterlimit="10" stroke-dasharray="26.72 26.72"/>
+<path d="M31.9929 21.9503V14.606" stroke="white" stroke-width="1.43577" stroke-miterlimit="10"/>
+<path d="M24.9232 24.8775L19.7289 19.6863" stroke="white" stroke-width="1.43577" stroke-miterlimit="10"/>
+<path d="M21.9933 31.9504H14.649" stroke="white" stroke-width="1.43577" stroke-miterlimit="10"/>
+<path d="M24.9232 39.02L19.7289 44.2143" stroke="white" stroke-width="1.43577" stroke-miterlimit="10"/>
+<path d="M31.9929 41.9503V49.2946" stroke="white" stroke-width="1.43577" stroke-miterlimit="10"/>
+<path d="M39.0657 39.02L44.2569 44.2143" stroke="white" stroke-width="1.43577" stroke-miterlimit="10"/>
+<path d="M41.993 31.9504H49.3373" stroke="white" stroke-width="1.43577" stroke-miterlimit="10"/>
+<path d="M39.0657 24.8775L44.2569 19.6863" stroke="white" stroke-width="1.43577" stroke-miterlimit="10"/>
+<rect x="0.5" y="0.5" width="63" height="63" stroke="#18FEF0" stroke-opacity="0.8"/>
+</svg>

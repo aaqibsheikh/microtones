@@ -1,25 +1,9 @@
 <template>
-  <div id="app">
-    <h2 class="text-pink-400 text-4xl font-bold mt-80">Textpink</h2>
+  <div id="app" class="font-mont text-white">
+    <router-view/>
   </div>
 </template>
 
-<script>
-
-export default {
-  name: 'App',
-  components: {
-  }
-}
-</script>
-
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+
 </style>

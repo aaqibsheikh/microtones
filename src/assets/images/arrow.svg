@@ -1,0 +1,21 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="-0.000366211" width="64.0008" height="64" fill="#2E96E8" fill-opacity="0.05"/>
+<path d="M41.4786 38.8005V41.4777H38.8014" stroke="white" stroke-miterlimit="10"/>
+<path d="M25.199 41.4777H22.519V38.8005" stroke="white" stroke-miterlimit="10"/>
+<path d="M22.519 25.199V22.5218H25.199" stroke="white" stroke-miterlimit="10"/>
+<path d="M38.8014 22.5218H41.4786V25.199" stroke="white" stroke-miterlimit="10"/>
+<path d="M35.7854 53.2132L31.9986 57L28.2117 53.2132" stroke="white" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M10.7865 35.7882L6.99963 32.0014L10.7865 28.2145" stroke="white" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M28.2117 10.7869L31.9986 7L35.7854 10.7869" stroke="white" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M53.2136 28.2145L57.0005 32.0014L53.2136 35.7882" stroke="white" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M35.5382 32.0005L32.0012 28.4635L28.4643 32.0005L32.0012 35.5374L35.5382 32.0005Z" stroke="white" stroke-width="0.607682" stroke-miterlimit="10"/>
+<path d="M45.2653 33.3495L43.9142 32.0012L45.2653 30.6502" stroke="white" stroke-width="0.5" stroke-miterlimit="10"/>
+<path d="M30.6506 45.2648L31.999 43.9137L33.35 45.2648" stroke="white" stroke-width="0.5" stroke-miterlimit="10"/>
+<path d="M18.7349 30.6502L20.0859 32.0012L18.7349 33.3495" stroke="white" stroke-width="0.5" stroke-miterlimit="10"/>
+<path d="M33.35 18.7352L31.999 20.0862L30.6506 18.7352" stroke="white" stroke-width="0.5" stroke-miterlimit="10"/>
+<path d="M20.0833 32.0011H43.9142" stroke="white" stroke-width="0.5" stroke-miterlimit="10"/>
+<path d="M31.9988 20.0861V43.9143" stroke="white" stroke-width="0.5" stroke-miterlimit="10"/>
+<path d="M28.4644 32.0011H35.536" stroke="white" stroke-width="0.607682" stroke-miterlimit="10"/>
+<path d="M31.9988 28.4643V35.5359" stroke="white" stroke-width="0.607682" stroke-miterlimit="10"/>
+<rect x="0.499634" y="0.5" width="63.0008" height="63" stroke="#18FEF0" stroke-opacity="0.8"/>
+</svg>

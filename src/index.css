@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('./assets/fonts/Montserrat.ttf');
+  }
+
+  .tones-progress-bar {
+    border: 7px solid #18FEF0;
+    box-sizing: border-box;
+    
+  }
