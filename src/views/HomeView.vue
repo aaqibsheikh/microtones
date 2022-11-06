@@ -5,6 +5,7 @@
       <div class="flex flex-col xl:w-1/2 w-full">
         <Heading text="PORTFOLIO RATIO OVERVIEW" />
         <Stats />
+        <DonutProgressBar />
       </div>
       <div class="flex flex-col xl:w-1/2 w-full">
         <Heading text="PORTFOLIO DETAILS" />
@@ -20,6 +21,7 @@ import Logo from "@/components/Logo.vue"
 import Heading from "@/components/Heading.vue"
 import Stats from "@/components/Stats.vue"
 import Card from "@/components/Card.vue"
+import DonutProgressBar from "@/components/DonutProgressBar.vue"
 export default {
   name: 'HomeView',
   components: {
@@ -27,6 +29,7 @@ export default {
     Heading,
     Stats,
     Card,
+    DonutProgressBar,
   }
 }
 </script>
