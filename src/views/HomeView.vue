@@ -5,11 +5,11 @@
       <div class="flex flex-col xl:w-1/2 w-full">
         <Heading text="PORTFOLIO RATIO OVERVIEW" />
         <Stats />
-        <DonutProgressBar />
+        <DonutProgressBar :show="show" />
       </div>
       <div class="flex flex-col xl:w-1/2 w-full">
         <Heading text="PORTFOLIO DETAILS" />
-        <Card />
+        <Card @showData="passDataToComp"  />
       </div>
 
     </div>
@@ -30,6 +30,16 @@ export default {
     Stats,
     Card,
     DonutProgressBar,
+  },
+  data() {
+    return {
+      show: false
+    }
+  },
+  methods: {
+    passDataToComp(data) {
+      this.show = data;
+    }
   }
 }
 </script>
